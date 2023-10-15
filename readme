@@ -1,0 +1,9 @@
+
+Socket error
+
+1. check mariadb service is running or stopped
+2. if it's not installed then install it by following command
+   apt install mysql* -y
+3. user root password is root
+4. chheck allowed host
+5. 
